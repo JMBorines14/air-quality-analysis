@@ -1,4 +1,4 @@
-county Name,Date,AQI,Defining Parameter
+COUNTY,DATE,AQI,PARAMETER
 Alachua,01/03,35,PM2.5
 Alachua,01/08,52,PM2.5
 Alachua,01/09,48,PM2.5
